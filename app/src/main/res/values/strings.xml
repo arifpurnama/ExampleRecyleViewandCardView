@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example RecyleView</string>
+    <string name="pengirim">Pengirim</string>
+    <string name="todo">TODO</string>
+</resources>
